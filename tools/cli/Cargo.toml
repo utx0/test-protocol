@@ -14,8 +14,8 @@ anchor-lang = "0.19.0"
 anchor-client = "0.19.0"
 anchor-spl = "0.19.0"
 shellexpand = "2.1"
-farming = { path = "../../programs/farming" }
-multisig = { path = "../../programs/multisig" }
-staking = { path = "../../programs/staking" }
-pooling = { path = "../../programs/pooling" }
-vesting = { path = "../../programs/vesting" }
+farming = { path = "../../programs/farming", feature = ["no-entrypoint"]}
+multisig = { path = "../../programs/multisig", feature = ["no-entrypoint"]}
+staking = { path = "../../programs/staking", feature = ["no-entrypoint"]}
+pooling = { path = "../../programs/pooling", feature = ["no-entrypoint"]}
+vesting = { path = "../../programs/vesting", feature = ["no-entrypoint"]}
