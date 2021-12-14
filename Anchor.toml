@@ -1,5 +1,10 @@
 [programs.localnet]
-test_protocol = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+multisig= "DQyhdv4dU1U4THMK68fpU5KtovQrf8LBN3Kn3yTkGyRg"
+vesting= "CEqRS5MSGiENzs3PxJnu1yrJcNeam4ZiRkpNefbPvZQs"
+staking= "2orsZzVqpGfotu3w4ydDgooUxm34M2VpywavCjq3Q1Eg"
+farming= "DtKQ36pchqxMmhJkUqqMv6AMuprZoekwvvKHFg56LBed"
+pooling= "AbJvQhCJUz118it8S8zZ22ZZsM5vd93pAv8uzu6cJkEY"
+
 
 [registry]
 url = "https://anchor.projectserum.com"
